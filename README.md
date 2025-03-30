@@ -33,9 +33,7 @@
   <img src="https://img.shields.io/badge/Matplotlib-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/Seaborn-19AEFF?style=for-the-badge&logo=plotly&logoColor=white" alt="Seaborn" />
   <img src = "https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="PyQT5">
-  <img src = "">
   <img src = "https://img.shields.io/badge/Polars-13B2F6?style=for-the-badge&logo=polars&logoColor=white" alt="Polars">
-  <img src = "">
 </p>  
 
 
