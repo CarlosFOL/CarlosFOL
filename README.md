@@ -32,7 +32,13 @@
   <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
   <img src="https://img.shields.io/badge/Matplotlib-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/Seaborn-19AEFF?style=for-the-badge&logo=plotly&logoColor=white" alt="Seaborn" />
+  <img src = "https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="PyQT5">
+  <img src = "">
+  <img src = "https://img.shields.io/badge/Polars-13B2F6?style=for-the-badge&logo=polars&logoColor=white" alt="Polars">
+  <img src = "">
 </p>  
+
+
 
 #### Databases
 <p align="center">
@@ -41,7 +47,7 @@
 </p>
 
 #### Tools
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
@@ -58,7 +64,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosFOL&layout=compact&langs_count=7&theme=radical"/>
   </a>
 </div>
-
 
 
 ## 🚀 Featured Projects
