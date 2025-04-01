@@ -69,14 +69,17 @@
 ## 🚀 Featured Projects
 
 <div align="center">
+  
   <a href="https://github.com/CarlosFOL/debugbuddy">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosFOL&repo=debugbuddy&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosFOL&repo=debugbuddy&theme=radical">
   </a>
   <a href="https://github.com/CarlosFOL/Transport_Company_Analysis">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosFOL&repo=Transport_Company_Analysis
-&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosFOL&repo=Transport_Company_Analysis&theme=radical">
   </a>
-  <a href="https://github.com/CarlosFOL/Budget_Planner">
+  
+</div>
+<div align = "center">
+<a href="https://github.com/CarlosFOL/Budget_Planner">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosFOL&repo=Budget_Planner
 &theme=radical" />
   </a>
@@ -87,10 +90,10 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/carlossfol/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:carlos.orellun@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 
 </div>
