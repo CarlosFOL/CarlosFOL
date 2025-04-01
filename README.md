@@ -49,6 +49,8 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+    <img src="https://img.shields.io/badge/neovim-3DE474?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
+    <img src="https://img.shields.io/badge/VsCode-378BDE?style=for-the-badge&logo=vscode&logoColor=white" alt="vscode" />
 </p>
 
 
@@ -70,8 +72,13 @@
   <a href="https://github.com/CarlosFOL/debugbuddy">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosFOL&repo=debugbuddy&theme=radical" />
   </a>
-  <a href="https://github.com/CarlosFOL/debugbuddy">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosFOL&repo=Budget_Planner&theme=radical" />
+  <a href="https://github.com/CarlosFOL/Transport_Company_Analysis">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosFOL&repo=Transport_Company_Analysis
+&theme=radical" />
+  </a>
+  <a href="https://github.com/CarlosFOL/Budget_Planner">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosFOL&repo=Budget_Planner
+&theme=radical" />
   </a>
 </div>
 
@@ -85,4 +92,5 @@
   <a href="mailto:carlos.orellun@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+
 </div>
