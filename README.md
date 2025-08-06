@@ -1,9 +1,7 @@
 
-# <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32"> Welcome to CFOL profile! 
+# <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32"> Welcome to CFOL profile!
 
-
-
-<h3 align = center>Python developer and data scientist passionate about discovering patterns where others see only chaos.</h3>
+<h3 align = center> Data engineering student ⚙ | +2y experience with Python 🐍 | Platzi Student 💚 </h3>
 
 
 <!--Phrases about my workflow-->
@@ -11,9 +9,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tektur&pause=1000&color=18F75C&width=435&lines=Cleaning+data+(80%25+of+my+time);Transform+raw+data+into+insights;Find+the+best+RGB+color+for+graphics;Making+ML+work+on+humble+hardware+" alt="Typing SVG" /></a>
 </p>
 
-
-
-##   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" alt="🤖" width="32" height="32"> Technologies and tools
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" alt="🤖" width="32" height="32"> Technologies and tools
 
 #### Programming Languages
 
@@ -36,15 +32,15 @@
   <img src = "https://img.shields.io/badge/Polars-13B2F6?style=for-the-badge&logo=polars&logoColor=white" alt="Polars">
 </p>  
 
-
-
 #### Databases
+
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
 #### Tools
+
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -52,7 +48,6 @@
     <img src="https://img.shields.io/badge/neovim-3DE474?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
     <img src="https://img.shields.io/badge/VsCode-378BDE?style=for-the-badge&logo=vscode&logoColor=white" alt="vscode" />
 </p>
-
 
 ## 📈 GitHub Statistics
 
@@ -77,12 +72,6 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosFOL&repo=Transport_Company_Analysis&theme=radical">
   </a>
   
-</div>
-<div align = "center">
-<a href="https://github.com/CarlosFOL/Budget_Planner">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosFOL&repo=Budget_Planner
-&theme=radical" />
-  </a>
 </div>
 
 
