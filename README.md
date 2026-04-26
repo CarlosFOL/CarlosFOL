@@ -52,6 +52,7 @@
     <img src="https://img.shields.io/badge/neovim-3DE474?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
     <img src="https://img.shields.io/badge/VsCode-378BDE?style=for-the-badge&logo=vscode&logoColor=white" alt="vscode" />
     <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
 ## 📈 GitHub Statistics
